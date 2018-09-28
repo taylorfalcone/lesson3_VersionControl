@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+Sept. 28, 2018
 
 ## Student Name:  
-(First and Last Name)
+Taylor Falcone
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment I summarized 5 key concepts that I learned in Lesson 3 on a webpage.
+
+## View Project:
+https://taylorfalcone.github.io/lesson3_VersionControl/
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to create a Git Hub account and connect it to my Cloud9 account.
+2. How to move files to the local and remote repositories.
+3. How to configure Cloud9 for Git.
 
